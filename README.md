@@ -1,2 +1,2 @@
-# TestPostman
-Test receive and send information across postman
+# Flask, heroku and Postman
+To do post request in flask app deployed in heroku
